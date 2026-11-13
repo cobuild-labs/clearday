@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Clearday</title>
+    <link>https://raw.githubusercontent.com/cobuild-labs/clearday/main/appcast.xml</link>
+    <description>Updates for Clearday</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.1</title>
+      <pubDate>Fri, 13 Nov 2026 05:35:00 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Updates, built in.</b> Clearday now checks for new versions once a day and installs them with one click. You can also check any time from the Clearday menu.</p><ul><li>Sign in with Google and your to-dos stay in step with the web and your phone</li><li>Ask AI is built in, with nothing to set up</li><li>Reminders explain themselves before your Mac asks</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/clearday/releases/download/v2.1/Clearday.dmg" sparkle:edSignature="0z/qjQ+IidV2m6GptmvLXnbReVsCipL2Nqfbz2gWY7JAGzLV3UsCFX0eKbk3ciLJ800Od8Adf8o2W00QcMKmAg==" length="6704737" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
