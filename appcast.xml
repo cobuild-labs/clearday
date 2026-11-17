@@ -7,6 +7,15 @@
     <language>en</language>
     <item>
       <title>Version 2.1</title>
+      <pubDate>Tue, 17 Nov 2026 01:45:00 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Clearday now connects through CoBuild's new home, thecobuild.com,</b> for sign-in, sync and Ask AI.</p><ul><li>General bug fixes and performance improvements</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/clearday/releases/download/v2.1-b4/Clearday.dmg" sparkle:edSignature="NOmlQVnCr4aYk64o7ora9ASCMMaRCFV2K/a6wwgcLt7YY2lwYLoOB3EC4siiSpqKE1u1BRNHiRfUcQxQeM0oDA==" length="6704837" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 2.1</title>
       <pubDate>Fri, 13 Nov 2026 05:35:00 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
